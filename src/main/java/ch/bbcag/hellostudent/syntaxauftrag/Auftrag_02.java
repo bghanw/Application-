@@ -6,6 +6,7 @@ public class Auftrag_02 {
 
     public static void main(String[] args) {
         test = "Hello";
+        System.out.println(test);
     }
 
 }
