@@ -1,6 +1,6 @@
-package ch.bbcag.hellostudent.syntaxauftrag;
+package ch.bbcag.hellostudent.syntaxauftrag_02;
 
-public class Auftrag_02 {
+public class Aufgabe_1 {
 
     public static void main(String[] args) {
 
